@@ -1,9 +1,9 @@
 This repository contains my Kaggle projects. 
 
-### P1 - [Titanic](https://www.kaggle.com/c/titanic))
+### P1 - [Titanic](https://www.kaggle.com/c/titanic)
 - Built a categorical model to predict survival rates using EDA, feature engineering and ensemble techniques.
 
-### P2 - [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques))
+### P2 - [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - Built a regression model to predict house prices using EDA, feature engineering and ensemble techniques. 
 
 ### P3 - [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
