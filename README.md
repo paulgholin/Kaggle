@@ -12,3 +12,6 @@ This repository contains my Kaggle projects.
 ### P4 - [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)
 - Added pseudo-labeling technique to a pretrained model using Pytorch to detect secret data hidden within digital images.
 
+### P5 - [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)
+- Trained a model with ensemble techniques using TensorFlow on Kaggle to identify melanoma in lesion images.
+
